@@ -1,6 +1,6 @@
 # stackoverflow-survey-data-analysis 
 
-![Box plot of Years of Experience vs Compensation for developers](diagram.png)
+![Box plot of Years of Experience vs Compensation for developers](chart.png)
 
 ## Description: 
 In this repo I handle missing data and perform data wrangling, cleaning and tidying techniques for a stack overflow survey and then analyse it
